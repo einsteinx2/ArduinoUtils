@@ -1,0 +1,16 @@
+{
+  "name": "ArduinoUtils",
+  "keywords": "arduino, utility",
+  "description": "Arduino library with helper functions",
+  "authors": [ 
+    {
+      "name": "Ben Baron",
+      "email": "ben@einsteinx2.com",
+      "url": "https://github.com/einsteinx2",
+      "maintainer": true
+    }
+  ],
+  "version": "0.1.0",
+  "frameworks": "arduino",
+  "platforms": "*"
+}
